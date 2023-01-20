@@ -1,5 +1,4 @@
-#
-INTRO
+<h1><b>INTRO</b></h1>
 ***
 Lapex Resourse Pack is used for the Lapex project that I started.
 
