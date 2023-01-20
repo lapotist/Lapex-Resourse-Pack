@@ -1,6 +1,6 @@
-<h1><b style="color:red">THIS IS CURRENTLY WORK IN PROGRESS</b></h1>
+# ***:warning: THIS IS CURRENTLY WORK IN PROGRESS***
 
-<h1><b>INTRO</b></h1>
+# **INTRO**
 
 Lapex Resourse Pack is used for the Lapex project that I started.
 
