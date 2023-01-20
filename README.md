@@ -4,6 +4,8 @@
 
 Lapex Resourse Pack is used for the Lapex project that I started.
 
+This includes textures, shaders, fonts, and some more
+
 This is basically apex legends in Minecraft
 
 If you want to use this on your server, do it!
